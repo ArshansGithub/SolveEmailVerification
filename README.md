@@ -34,7 +34,7 @@ import asyncio
 import traceback
 
 
-class Verifier:
+class EmailVerifier:
     def __init__(self, host='outlook.office365.com', port=993):
         # Initialize the IMAP client with the specified host and port
         self.client = aioimaplib.IMAP4_SSL(host, port)
@@ -160,7 +160,7 @@ async def someTask():
 async def main():
     global verifier
 
-    verifier = Verifier()
+    verifier = EmailVerifier()
 
     await verifier.connect('email@domain.com', 'password')
 
