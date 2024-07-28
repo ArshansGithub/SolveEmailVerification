@@ -2,6 +2,8 @@
 
 This Python script provides a simple, plug-and-play solution for bypassing email verification processes by leveraging the IMAP protocol. It allows you to dynamically filter emails and extract codes or links, perfect for automating tasks that require email verification.
 
+**This software is intended for legitimate use only. Unauthorized access to email accounts or misuse of this software is strictly prohibited and may be illegal. By using this software, you agree to comply with all applicable laws and regulations regarding email communications and data privacy. The developers assume no liability for any damages or legal issues arising from the use of this software. Use responsibly and ethically.**
+
 ## Features
 
 - **IMAP4 SSL**: Secure connection to your email server.
