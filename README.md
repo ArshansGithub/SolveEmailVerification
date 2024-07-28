@@ -13,7 +13,7 @@ This repository provides a plug-and-play solution for bypassing email verificati
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/arshansgithub/SolveEmailVerification.git
+   git clone https://github.com/ArshansGithub/SolveEmailVerification.git
    cd SolveEmailVerification
    ```
 
